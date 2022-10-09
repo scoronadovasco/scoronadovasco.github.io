@@ -21,7 +21,8 @@ html{
     }
     
     body{
-   background-image: url(../../imagenes/codigo-binario-ceros-y-unos.gif);
+        background-color: yellow;
+   /*background-image: url(../../imagenes/codigo-binario-ceros-y-unos.gif);*/
     }
 
 .contacto {
