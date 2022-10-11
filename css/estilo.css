@@ -1,144 +1,146 @@
-
-html{
+html {
     font-size: 62.5%;
-    }
-    
-    body{
-    
+}
+
+body {
+
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
-    }
-    
-    h1 {
+}
+
+h1 {
     text-align: center;
-    color: 	#FFF5EE;    
+    color: #FFF5EE;
     font-size: 5rem;
-    }
-    
-    h1 span{
-    font-size:  3.5rem;
-    color:	#87CEFA;
-    }
-    
-    body{
-        background-color: tomato;
-   /*background-image: url(../../imagenes/codigo-binario-ceros-y-unos.gif);*/
-    }
+}
+
+h1 span {
+    font-size: 3.5rem;
+    color: #87CEFA;
+}
+
+body {
+    background-image: url(../../imagenes/codigo-binario-ceros-y-unos.gif);
+}
 
 .contacto {
-    color:white;
+    color: white;
     text-decoration: none;
 
 }
+
 .titulo1 {
     text-align: center;
     color: white;
 }
-.menu{
-    background-color:#FAFAD2 ;  
-    display: flex; 
+
+.menu {
+    background-color: #FAFAD2;
+    display: flex;
     justify-content: space-evenly;
     font-weight: bold;
     padding: 2rem;
-   
+
 }
-    
-.a1, .a2, .a3, .a4{
-    
+
+.a1,
+.a2,
+.a3,
+.a4 {
+
     color: white;
     text-decoration: none;
     background-color: cadetblue;
     padding: 1rem;
-    
+
     border-radius: 1rem;
 }
-    
-    
-.menu a:hover{
+
+
+.menu a:hover {
     padding: 1rem;
     background-color: #3498DB;
     color: #e4e9ec;
 }
-    
 
 
-.miservicios{
+
+.miservicios {
     text-align: center;
-    color:	#87CEFA;
+    color: #87CEFA;
 }
 
 
-.div1{
-    
-    background-color: 	#FAFAD2;
+.div1 {
+
+    background-color: #FAFAD2;
     text-align: center;
     width: 43.5rem;
     height: 15rem;
     float: left;
 }
 
-.div2{
+.div2 {
     background-color: #B0C4DE;
     text-align: center;
     width: 43.5rem;
     height: 15rem;
     float: left;
     color: honeydew;
-    
+
 }
 
 .div3 {
-    background-color: 	#FAFAD2;
+    background-color: #FAFAD2;
     text-align: center;
     width: 43.5rem;
     height: 15rem;
     float: left;
-    }
-
-    .sectionfinal {
-        margin-top: 20rem;
-        text-align: center;
-    }
-
-    .finalcss{
-
-width: 120 rem;
-height: 15rem;
-text-align: center;
-color: white;
-    }
-
-
-
-@media(min-width:1280px){
-
-.relb {
-    display: flex;
-    justify-content: center;
-    
 }
 
-.reus{
-    background-image:url(../../imagenes/codin.jpg) ;
-    background-size: cover;
+.sectionfinal {
+    margin-top: 20rem;
+    text-align: center;
 }
 
+.finalcss {
 
-.cr7{
-background-size: cover;
-    background-image:url(../../imagenes/codin.jpg)
-    
-}
-
-.fell{
+    width: 120 rem;
+    height: 15rem;
+    text-align: center;
     color: white;
-    text-decoration: none;
-    background-color: cadetblue;
-    padding: 1rem;
-    margin-top: 1rem;
-    border-radius: 1rem;
 }
 
-.hef{
-    margin-top: 2rem;
-}
+
+
+@media(min-width:1280px) {
+
+    .relb {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .reus {
+        background-image: url(../../imagenes/codin.jpg);
+        background-size: cover;
+    }
+
+
+    .cr7 {
+        background-size: cover;
+        background-image: url(../../imagenes/codin.jpg)
+    }
+
+    .fell {
+        color: white;
+        text-decoration: none;
+        background-color: cadetblue;
+        padding: 1rem;
+        margin-top: 1rem;
+        border-radius: 1rem;
+    }
+
+    .hef {
+        margin-top: 2rem;
+    }
